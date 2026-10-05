@@ -1,0 +1,6 @@
+[0:v]scale=2560:-1,crop=2560:1440:0:1500,boxblur=25:2,eq=brightness=-0.28:saturation=1.2,format=rgba[bg];
+[1:v]crop=1600:1600:0:60,scale=400:400,format=rgba,geq=r='if(gt(hypot(X-W/2,Y-H/2),W/2-12),74,r(X,Y))':g='if(gt(hypot(X-W/2,Y-H/2),W/2-12),225,g(X,Y))':b='if(gt(hypot(X-W/2,Y-H/2),W/2-12),245,b(X,Y))':a='if(lt(hypot(X-W/2,Y-H/2),W/2-1),255,0)'[head];
+[bg][head]overlay=x=1610:y=516[o1];
+[o1]drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='NICO IA':fontsize=190:fontcolor=white:x=560:y=545:shadowcolor=black@0.6:shadowx=6:shadowy=6,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='HISTORIAS DE IA Y ROBOTS':fontsize=60:fontcolor=0x4AE1F5:x=566:y=770:shadowcolor=black@0.6:shadowx=3:shadowy=3,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='NUEVO EPISODIO CADA SEMANA  ·  @NICOBOTIA':fontsize=38:fontcolor=white@0.85:x=568:y=855,format=rgb24[out]

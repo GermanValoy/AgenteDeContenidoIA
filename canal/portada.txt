@@ -1,0 +1,5 @@
+[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,eq=brightness=-0.05,
+drawbox=x=0:y=0:w=1080:h=620:color=black@0.45:t=fill,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':textfile=l1.txt:fontsize=150:fontcolor=white:x=(w-text_w)/2:y=170:borderw=8:bordercolor=black,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':textfile=l2.txt:fontsize=150:fontcolor=0x4AE1F5:x=(w-text_w)/2:y=350:borderw=8:bordercolor=black,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':textfile=l3.txt:fontsize=60:fontcolor=white:x=(w-text_w)/2:y=1700:borderw=5:bordercolor=black[out]
