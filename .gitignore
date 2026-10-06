@@ -2,3 +2,6 @@
 *_yt.mp4
 # Temporales del montaje
 shorts/*/tmp/
+
+# Versiones para TikTok (se regeneran con tiktok/hook.txt)
+*_tiktok.mp4
