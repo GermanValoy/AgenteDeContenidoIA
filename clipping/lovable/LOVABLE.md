@@ -70,6 +70,16 @@ Anton Osika (Lovable) on 20VC
 4. Fija tu comentario → copia el enlace → **Content Rewards → "Enviar clip"** (antes de 10 min).
 5. A las 48 h revisa en cada red **el país del público**: si la mayoría no es tier 1, avísame y ajustamos.
 
+## Registro de publicaciones
+
+Canal: **AI Founders Daily** · https://www.youtube.com/@AIFoundersDailyHQ
+
+| Clip | Red | Publicación | Enlace | Enviado a Content Rewards |
+|---|---|---|---|---|
+| 02 – $2M every week | YouTube | 10 oct 2026, 19:00 (programado) | https://youtube.com/shorts/OIk3zstaUbY | ☐ |
+
+Ajustes usados en YouTube: portada `salida/portada_*.jpg`, "No es contenido para niños", **Promoción de pago: Sí** (es una campaña pagada por Lovable), Uso de IA: No (es metraje real del podcast).
+
 ## Regenerar
 
 ```
