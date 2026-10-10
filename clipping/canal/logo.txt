@@ -1,0 +1,4 @@
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='AI':fontsize=360:fontcolor=white:x=(w-text_w)/2:y=95,
+drawbox=x=170:y=505:w=460:h=10:color=0xFFE500:t=fill,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='FOUNDERS':fontsize=96:fontcolor=0xFFE500:x=(w-text_w)/2:y=535,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='DAILY':fontsize=60:fontcolor=white:x=(w-text_w)/2:y=650
