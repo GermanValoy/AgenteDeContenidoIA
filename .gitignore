@@ -5,3 +5,9 @@ shorts/*/tmp/
 
 # Versiones para TikTok (se regeneran con tiktok/hook.txt)
 *_tiktok.mp4
+
+# Clipping: material descargado, temporales y clips (se regeneran con build.py)
+clipping/fuentes/*.mp4
+clipping/fuentes/*.part
+clipping/lovable/tmp/
+clipping/lovable/salida/
