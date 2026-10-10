@@ -1,5 +1,5 @@
 ﻿"""Genera la portada (1080x1920) de cada clip: un fotograma del podcast con el mismo
-diseÃ±o del clip (fondo desenfocado + cuadro al centro) y el gancho en grande.
+diseño del clip (fondo desenfocado + cuadro al centro) y el gancho en grande.
 
 Uso (desde esta carpeta): python -I portadas.py
 """
@@ -10,7 +10,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build import AQUI, CLIPS, FUENTES, SALIDA, TRAMOS
 
-# Segundo absoluto del podcast elegido como fotograma de portada (Anton en cÃ¡mara)
+# Segundo absoluto del podcast elegido como fotograma de portada (Anton en cámara)
 FOTOGRAMA = {"01-weekend": 478.0, "02-2m-week": 1196.0, "03-retention": 1953.0, "04-claude": 2109.0}
 
 FUENTE = "C\\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf"
@@ -18,7 +18,7 @@ FUENTE = "C\\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf"
 for cid, ((l1, l2), cortes) in CLIPS.items():
     tramo = cortes[0][0]
     tmp = os.path.join(AQUI, "tmp")
-    for n, txt in enumerate((l1, l2, "ANTON OSIKA  Â·  LOVABLE CEO"), 1):
+    for n, txt in enumerate((l1, l2, "ANTON OSIKA  ·  LOVABLE CEO"), 1):
         open(os.path.join(tmp, f"{cid}_p{n}.txt"), "w", encoding="utf-8").write(txt)
     filtro = (
         "split[f][c];"
