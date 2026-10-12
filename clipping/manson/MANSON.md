@@ -1,6 +1,6 @@
 # Solved w/ Mark Manson (ClipFarm): kit de publicación
 
-Campaña: Content Rewards → **ClipFarm x Solved w/ Mark Manson**. Paga $1,25 por cada 1.000 vistas en YouTube Shorts e Instagram Reels. Pago mínimo $1,25, máximo $350 por clip.
+Campaña: Content Rewards → **ClipFarm x Solved w/ Mark Manson**. Paga $1,25 por cada 1.000 vistas en YouTube Shorts e Instagram Reels. Pago mínimo $2, máximo $300 por clip (valores al 12 oct 2026).
 Brief: https://docs.google.com/document/d/172GauJh-FqD7uralyek4MTdYZf7PEld6-sJdsoAaoD4
 Canal: **Blunt Truths Daily** · https://www.youtube.com/@BluntTruthsDailyHQ
 
@@ -71,6 +71,7 @@ Enlace: https://www.youtube.com/@BluntTruthsDailyHQ · Foto: `clipping/canal/log
 - Calentar la cuenta 2–3 días antes del primer Reel: seguir a @markmanson y @solvedpodcast y a cuentas en inglés del tema. No sincronizar contactos.
 - En Instagram el tema que mejor rinde es **pareja y relaciones**: el primer Reel es el 03 (wife).
 - Etiquetas en el texto del Reel: **@solvedpodcast @markmanson**.
+- Conectada en Content Rewards (Ajustes → Cuentas conectadas) el 12 oct 2026. Calentamiento: sigue a 10 cuentas (markmanson, solvedpodcast, jayshetty, melrobbins, estherperelofficial, gottmaninstitute, hubermanlab, thediaryofaceo, lewishowes, jillianturecki).
 
 ## Cómo publicar
 
