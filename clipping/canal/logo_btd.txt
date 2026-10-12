@@ -1,0 +1,3 @@
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='BLUNT':fontsize=190:fontcolor=white:x=(w-text_w)/2:y=170,
+drawbox=x=170:y=420:w=460:h=10:color=0xFFE500:t=fill,
+drawtext=fontfile='C\:/Users/German/Nico_Robot/fonts/Anton-Regular.ttf':text='TRUTHS':fontsize=150:fontcolor=0xFFE500:x=(w-text_w)/2:y=445
