@@ -108,14 +108,14 @@ Comentario para fijar (todos): `Have you ever been in one of these? 👇`
 
 1. Publicar **1 clip por día** en YouTube Shorts, en el horario **18:00–21:00 de EE. UU. (Este)**, que son las 19:00–22:00 en Argentina.
 2. Ajustes en YouTube: "No es contenido para niños"; Promoción de pago: **Sí** (nos pagan por publicarlo; declararlo no está prohibido, lo prohibido es pagar anuncios); Contenido alterado o sintético: **No**.
-3. Fijar el comentario → copiar el enlace → **Content Rewards → "Enviar clip"**.
+3. Fijar el comentario → copiar el enlace → **Content Rewards → "Enviar clip"** dentro de los **30 minutos** posteriores a la publicación (si no, lo rechaza).
 4. A las 48 h revisar el país del público en Estadísticas.
 
 ## Registro de publicaciones
 
 | Clip | Red | Publicación | Enlace | Enviado |
 |---|---|---|---|---|
-| 01 – Poker | YouTube | 12 oct 2026, 19:00 (programado) | https://youtube.com/shorts/pKexkc51nhw | ☐ |
+| 01 – Poker | YouTube | 12 oct 2026, 19:00 (público ✔) | https://youtube.com/shorts/pKexkc51nhw | ✔ 12 oct (pendiente de aprobación) |
 | 02 – Control | YouTube | 13 oct 2026, 19:00 (programado) | https://youtube.com/shorts/FsHsdv7J8L8 | ☐ |
 | 03 – Best bet | YouTube | 14 oct 2026, 19:00 (programado) | https://youtube.com/shorts/4LZFwEbzQe0 | ☐ |
 | 04 – Buffett | YouTube | 15 oct 2026, 19:00 (programado) | https://youtube.com/shorts/t8kc3El5M1c | ☐ |
