@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nico Robot//Clipping//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:manson-clip01-20261012@nicorobot
+DTSTAMP:20261012T021500Z
+DTSTART:20261012T220500Z
+DTEND:20261012T222000Z
+SUMMARY:Enviar clip 01 (Poker) a Content Rewards
+DESCRIPTION:1) YouTube Studio > Contenido: confirmar que el Short 'Life is a game of poker' está público.\n2) Fijar el comentario si falta.\n3) Copiar el enlace del Short.\n4) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip > pegar enlace.\n5) Cuando carguen las estadísticas, enviar datos demográficos si los piden.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 01 a Content Rewards
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-clip02-20261013@nicorobot
+DTSTAMP:20261012T021500Z
+DTSTART:20261013T220500Z
+DTEND:20261013T222000Z
+SUMMARY:Enviar clip 02 (Control) a Content Rewards
+DESCRIPTION:1) YouTube Studio > Contenido: confirmar que el Short 'Act like everything is up to you' está público.\n2) Fijar el comentario si falta.\n3) Copiar el enlace del Short.\n4) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip > pegar enlace.\n5) Revisar vistas y país del público del clip 01.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 02 a Content Rewards
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-clip03-20261014@nicorobot
+DTSTAMP:20261012T021500Z
+DTSTART:20261014T220500Z
+DTEND:20261014T222000Z
+SUMMARY:Enviar clip 03 (Best bet) a Content Rewards
+DESCRIPTION:1) YouTube Studio > Contenido: confirmar que el Short 'He met his wife because of one tiny bet' está público.\n2) Fijar el comentario si falta.\n3) Copiar el enlace del Short.\n4) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip > pegar enlace.\n5) Pedirle a Claude los próximos clips.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 03 a Content Rewards
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

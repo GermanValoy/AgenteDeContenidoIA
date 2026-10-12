@@ -60,7 +60,7 @@ En Instagram usar el mismo texto, cambiando `@iammarkmanson` por `@markmanson`. 
 ## Cómo publicar
 
 1. Publicar **1 clip por día** en YouTube Shorts, en el horario **18:00–21:00 de EE. UU. (Este)**, que son las 19:00–22:00 en Argentina.
-2. Ajustes en YouTube: "No es contenido para niños"; Promoción de pago: **No**; Contenido alterado o sintético: **No**.
+2. Ajustes en YouTube: "No es contenido para niños"; Promoción de pago: **Sí** (nos pagan por publicarlo; declararlo no está prohibido, lo prohibido es pagar anuncios); Contenido alterado o sintético: **No**.
 3. Fijar el comentario → copiar el enlace → **Content Rewards → "Enviar clip"**.
 4. A las 48 h revisar el país del público en Estadísticas.
 
@@ -68,6 +68,11 @@ En Instagram usar el mismo texto, cambiando `@iammarkmanson` por `@markmanson`. 
 
 | Clip | Red | Publicación | Enlace | Enviado |
 |---|---|---|---|---|
+| 01 – Poker | YouTube | 12 oct 2026, 19:00 (programado) | https://youtube.com/shorts/pKexkc51nhw | ☐ |
+| 02 – Control | YouTube | 13 oct 2026, 19:00 (programado) | https://youtube.com/shorts/FsHsdv7J8L8 | ☐ |
+| 03 – Best bet | YouTube | 14 oct 2026, 19:00 (programado) | https://youtube.com/shorts/4LZFwEbzQe0 | ☐ |
+
+Ajustes de los 3: no es para niños, promoción de pago Sí, IA No, idioma inglés, categoría Gente y blogs, etiquetas de Mark Manson. Los valores de subida por defecto del canal ya no tienen las etiquetas de IA de la etapa Lovable.
 
 ## Regenerar
 
