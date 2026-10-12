@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nico Robot//Clipping//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:manson-pKexkc51nhw@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261012T220500Z
+DTEND:20261012T222000Z
+SUMMARY:Enviar clip 01 (Poker) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/pKexkc51nhw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 01 (Poker)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-FsHsdv7J8L8@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261013T220500Z
+DTEND:20261013T222000Z
+SUMMARY:Enviar clip 02 (Control) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/FsHsdv7J8L8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 02 (Control)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-4LZFwEbzQe0@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261014T220500Z
+DTEND:20261014T222000Z
+SUMMARY:Enviar clip 03 (Best bet) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/4LZFwEbzQe0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 03 (Best bet)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-t8kc3El5M1c@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261015T220500Z
+DTEND:20261015T222000Z
+SUMMARY:Enviar clip 04 (Buffett) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/t8kc3El5M1c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 04 (Buffett)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-dQDtXnQlmJQ@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261016T220500Z
+DTEND:20261016T222000Z
+SUMMARY:Enviar clip 06 (Will Smith) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/dQDtXnQlmJQ
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 06 (Will Smith)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-Tl3D57yEGw8@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261017T220500Z
+DTEND:20261017T222000Z
+SUMMARY:Enviar clip 05 (Ancestors) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/Tl3D57yEGw8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 05 (Ancestors)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-kmk5z1rY1fE@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261018T220500Z
+DTEND:20261018T222000Z
+SUMMARY:Enviar clip 07 (Newspaper) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/kmk5z1rY1fE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 07 (Newspaper)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:manson-vcz9gmq1qdE@nicorobot
+DTSTAMP:20261012T120000Z
+DTSTART:20261019T220500Z
+DTEND:20261019T222000Z
+SUMMARY:Enviar clip 08 (Real job) a Content Rewards
+DESCRIPTION:1) Fijar el comentario del Short.\n2) Content Rewards > ClipFarm x Solved w/ Mark Manson > Enviar clip.\n3) Pegar: https://youtube.com/shorts/vcz9gmq1qdE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Enviar clip 08 (Real job)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

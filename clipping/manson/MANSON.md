@@ -71,6 +71,13 @@ En Instagram usar el mismo texto, cambiando `@iammarkmanson` por `@markmanson`. 
 | 01 – Poker | YouTube | 12 oct 2026, 19:00 (programado) | https://youtube.com/shorts/pKexkc51nhw | ☐ |
 | 02 – Control | YouTube | 13 oct 2026, 19:00 (programado) | https://youtube.com/shorts/FsHsdv7J8L8 | ☐ |
 | 03 – Best bet | YouTube | 14 oct 2026, 19:00 (programado) | https://youtube.com/shorts/4LZFwEbzQe0 | ☐ |
+| 04 – Buffett | YouTube | 15 oct 2026, 19:00 (programado) | https://youtube.com/shorts/t8kc3El5M1c | ☐ |
+| 06 – Will Smith | YouTube | 16 oct 2026, 19:00 (programado) | https://youtube.com/shorts/dQDtXnQlmJQ | ☐ |
+| 05 – Ancestors | YouTube | 17 oct 2026, 19:00 (programado) | https://youtube.com/shorts/Tl3D57yEGw8 | ☐ |
+| 07 – Newspaper | YouTube | 18 oct 2026, 19:00 (programado) | https://youtube.com/shorts/kmk5z1rY1fE | ☐ |
+| 08 – Real job | YouTube | 19 oct 2026, 19:00 (programado) | https://youtube.com/shorts/vcz9gmq1qdE | ☐ |
+
+Clips 04–08 salen de "How to Feel Lucky No Matter What Happens" (`-rKZe8TEOik`) y "How to Increase Your Luck in Life" (`gMynmU0owYc`). El 06 se subió recomprimido (`manson_06-willsmith_sub.mp4`, crf 25) porque pesaba más de 10 MB.
 
 Ajustes de los 3: no es para niños, promoción de pago Sí, IA No, idioma inglés, categoría Gente y blogs, etiquetas de Mark Manson. Los valores de subida por defecto del canal ya no tienen las etiquetas de IA de la etapa Lovable.
 
