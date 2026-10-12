@@ -57,6 +57,21 @@ We overestimate the cost of failing and underestimate the upside of success. Wal
 
 En Instagram usar el mismo texto, cambiando `@iammarkmanson` por `@markmanson`. El clip 03 (pareja) es el que mejor encaja en Reels.
 
+## Instagram (Reels)
+
+Cuenta: **@blunttruthsdailyhq** (nombre "Blunt Truths Daily"; `blunttruthsdaily` estaba ocupado). Pública, profesional tipo **Creador**, "me gusta" visibles.
+Biografía:
+```
+Blunt, honest answers to life's big questions 🎯
+Purpose · confidence · relationships · discipline
+New clips daily 👇
+```
+Enlace: https://www.youtube.com/@BluntTruthsDailyHQ · Foto: `clipping/canal/logo_bt.png`.
+
+- Calentar la cuenta 2–3 días antes del primer Reel: seguir a @markmanson y @solvedpodcast y a cuentas en inglés del tema. No sincronizar contactos.
+- En Instagram el tema que mejor rinde es **pareja y relaciones**: el primer Reel es el 03 (wife).
+- Etiquetas en el texto del Reel: **@solvedpodcast @markmanson**.
+
 ## Cómo publicar
 
 1. Publicar **1 clip por día** en YouTube Shorts, en el horario **18:00–21:00 de EE. UU. (Este)**, que son las 19:00–22:00 en Argentina.
