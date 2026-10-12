@@ -73,6 +73,37 @@ Enlace: https://www.youtube.com/@BluntTruthsDailyHQ · Foto: `clipping/canal/log
 - Etiquetas en el texto del Reel: **@solvedpodcast @markmanson**.
 - Conectada en Content Rewards (Ajustes → Cuentas conectadas) el 12 oct 2026. Calentamiento: sigue a 10 cuentas (markmanson, solvedpodcast, jayshetty, melrobbins, estherperelofficial, gottmaninstitute, hubermanlab, thediaryofaceo, lewishowes, jillianturecki).
 
+### Reels de pareja y relaciones (`salida/manson_ig*.mp4`)
+
+Episodios: "Bad Relationships, Solved" (`Yru-7iow6Zw`) y "Romantic Love, Solved" (`6ZV8YReYA6U`). De Bad Relationships se evitan las partes sobre Johnny Depp y Amber Heard.
+
+| Archivo | Duración | Gancho | Tramo |
+|---|---|---|---|
+| `manson_ig1-addicted.mp4` | 54 s | TOXIC LOVE IS AN ADDICTION | Bad Rel. 41:14–42:08 |
+| `manson_ig2-boring.mp4` | 50 s | WHY HEALTHY LOVE FEELS BORING | Bad Rel. 1:30:59–1:31:22 + 1:31:57–1:32:25 |
+| `manson_ig3-feeling.mp4` | 45 s | LOVE ISN'T A FEELING | Romantic Love 2:22–2:37 + 3:54–4:25 |
+| `manson_ig4-awful.mp4` | 53 s | DATING A RED FLAG? | Romantic Love 6:13–7:06 |
+| `manson_ig5-conman.mp4` | 56 s | LOVE IS NATURE'S CON MAN | Romantic Love 8:34–9:07 + 9:55–10:18 |
+| `manson_ig6-chemistry.mp4` | 49 s | INSTANT CHEMISTRY IS A RED FLAG | Romantic Love 1:06:09–1:06:58 |
+| `manson_ig7-lovebomb.mp4` | 41 s | LOVE BOMBING ONLY WORKS IF... | Romantic Love 1:09:33–1:09:53 + 1:11:42–1:12:03 |
+| `manson_ig8-couch.mp4` | 59 s | WHAT REAL LOVE LOOKS LIKE | Romantic Love 1:26:57–1:27:25 + 1:27:28–1:27:59 |
+
+**ig1:** `If it hurts this much, why can't you leave? Because toxic love works like a slot machine 🎰`
+**ig2:** `If toxic is your normal, healthy will feel boring. That's not a red flag, it's peace 🕊️`
+**ig3:** `Love isn't a feeling. It's a drive, like hunger 🧠`
+**ig4:** `Everyone sees it except them. Here's why 🚩`
+**ig5:** `Limerence lasts a few years at most. Then reality sets in 💔`
+**ig6:** `That instant "I've never felt this before" spark? It's usually an old wound, not your soulmate ⚡`
+**ig7:** `Secure people don't fall for love bombing. Their first thought is "what's wrong with him?" 💣`
+**ig8:** `From the outside it looks boring. From the inside it's everything 🛋️`
+
+Todos terminan con:
+```
+@solvedpodcast @markmanson
+#markmanson #relationships #dating #love #relationshipadvice
+```
+Comentario para fijar (todos): `Have you ever been in one of these? 👇`
+
 ## Cómo publicar
 
 1. Publicar **1 clip por día** en YouTube Shorts, en el horario **18:00–21:00 de EE. UU. (Este)**, que son las 19:00–22:00 en Argentina.

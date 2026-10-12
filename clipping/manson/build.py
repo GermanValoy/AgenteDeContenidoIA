@@ -30,7 +30,21 @@ TRAMOS = {
     "il1": ("il_t1.mp4", 0.0, 700),
     "il2": ("il_t2.mp4", 429.0, 700),
     "il3": ("il_t3.mp4", 1700.0, 420),
+    # Pareja y relaciones, para Instagram. "Bad Relationships, Solved" (Yru-7iow6Zw): Mark de remera marrón.
+    "br1": ("bad_v1.mp4", 2470.0, 620),
+    "br2": ("bad_v2.mp4", 5450.0, 660),
+    # "Romantic Love, Solved" (6ZV8YReYA6U): Mark de remera negra, a la derecha del plano.
+    "rl1": ("love_v1.mp4", 140.0, 780),
+    "rl2": ("love_v2.mp4", 370.0, 780),
+    "rl3": ("love_v3.mp4", 3965.0, 780),
+    "rl4": ("love_v4.mp4", 4170.0, 780),
+    "rl5": ("love_v5.mp4", 4298.0, 780),
+    "rl6": ("love_v6.mp4", 5212.0, 780),
 }
+
+# Planos abiertos acercados a la cara de Mark: (x, y, lado del recorte)
+BR_ABIERTO = (1240, 280, 640)
+RL_ABIERTO = (1200, 100, 720)
 
 # id: (gancho en 2 líneas, archivo de palabras, [(tramo, desde, hasta)])
 CLIPS = {
@@ -48,6 +62,28 @@ CLIPS = {
         ("il2", 431.2, 433.0, 420), ("il2", 433.0, 449.7, 840), ("il2", 449.7, 473.4)]),
     "08-real-job": (("THEY TOLD ME", "GET A REAL JOB"), "increase_luck_palabras.json", [
         ("il3", 1704.5, 1716.0, 840), ("il3", 1716.0, 1739.5), ("il3", 1739.5, 1744.2, 840)]),
+    # --- Instagram: pareja y relaciones ---
+    "ig1-addicted": (("TOXIC LOVE IS", "AN ADDICTION"), "bad_abs_palabras.json", [("br1", 2474.6, 2528.3)]),
+    "ig2-boring": (("WHY HEALTHY LOVE", "FEELS BORING"), "bad_abs_palabras.json", [
+        ("br2", 5459.8, 5465.7, BR_ABIERTO), ("br2", 5465.7, 5481.9),
+        ("br2", 5517.25, 5535.1), ("br2", 5535.1, 5540.2, BR_ABIERTO), ("br2", 5540.2, 5545.3)]),
+    "ig3-feeling": (("LOVE ISN'T", "A FEELING"), "love_abs_palabras.json", [
+        ("rl1", 142.7, 157.3), ("rl1", 234.8, 243.8, RL_ABIERTO), ("rl1", 243.8, 265.2)]),
+    "ig4-awful": (("DATING A", "RED FLAG?"), "love_abs_palabras.json", [
+        ("rl2", 373.1, 378.7, RL_ABIERTO), ("rl2", 378.7, 390.4), ("rl2", 390.4, 404.5, RL_ABIERTO),
+        ("rl2", 404.5, 411.7), ("rl2", 411.7, 426.2, RL_ABIERTO)]),
+    # Drew (izquierda, remera gris) solo aparece 2 s reaccionando
+    "ig5-conman": (("LOVE IS", "NATURE'S CON MAN"), "love_abs_palabras.json", [
+        ("rl2", 514.6, 532.4, RL_ABIERTO), ("rl2", 532.4, 539.0), ("rl2", 539.0, 541.0, 300),
+        ("rl2", 541.0, 547.5, RL_ABIERTO), ("rl2", 595.4, 614.2, 750), ("rl2", 614.2, 618.5, RL_ABIERTO)]),
+    "ig6-chemistry": (("INSTANT CHEMISTRY", "IS A RED FLAG"), "love_abs_palabras.json", [
+        ("rl3", 3969.1, 3984.8, RL_ABIERTO), ("rl3", 3984.8, 4002.7), ("rl3", 4002.7, 4017.8, RL_ABIERTO)]),
+    "ig7-lovebomb": (("LOVE BOMBING", "ONLY WORKS IF..."), "love_abs_palabras.json", [
+        ("rl4", 4173.1, 4192.6), ("rl5", 4301.8, 4323.3, RL_ABIERTO)]),
+    # Se salta el "Oh, shucks" de Drew (5244.5-5248.3)
+    "ig8-couch": (("WHAT REAL LOVE", "LOOKS LIKE"), "love_abs_palabras.json", [
+        ("rl6", 5216.9, 5229.4), ("rl6", 5229.4, 5242.2, RL_ABIERTO), ("rl6", 5242.2, 5244.6),
+        ("rl6", 5248.3, 5259.6, RL_ABIERTO), ("rl6", 5259.6, 5267.5), ("rl6", 5267.5, 5279.3, RL_ABIERTO)]),
 }
 
 # El video cuadrado termina en y=1500: los subtítulos van justo debajo
@@ -82,6 +118,9 @@ def armar(cid):
         entradas += ["-ss", f"{a - inicio:.2f}", "-t", f"{b - a:.2f}", "-i", os.path.join(FUENTES, archivo)]
         if x is None:  # cuadro 16:9 completo (p. ej. cuando hay un gráfico al costado que se debe leer)
             fondo_x, recorte, y = 1166, "scale=1080:-2", 700
+        elif isinstance(x, tuple):  # (x, y, lado): acerca un plano abierto para que la cara de Mark se vea grande
+            cx, cy, lado = x
+            fondo_x, recorte, y = min(cx * 16 // 9, 2333), f"crop={lado}:{lado}:{cx}:{cy},scale=1080:1080", 420
         else:
             fondo_x, recorte, y = x * 16 // 9, f"crop=1080:1080:{x}:0", 420
         partes.append(f"[{i}:v]fps=30,setpts=PTS-STARTPTS,split[f{i}][c{i}];"
