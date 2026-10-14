@@ -116,7 +116,7 @@ Comentario para fijar (todos): `Have you ever been in one of these? 👇`
 | Clip | Red | Publicación | Enlace | Enviado |
 |---|---|---|---|---|
 | 01 – Poker | YouTube | 12 oct 2026, 19:00 (público ✔) | https://youtube.com/shorts/pKexkc51nhw | ✔ 12 oct (pendiente de aprobación) |
-| 02 – Control | YouTube | 13 oct 2026, 19:00 (programado) | https://youtube.com/shorts/FsHsdv7J8L8 | ☐ |
+| 02 – Control | YouTube | 13 oct 2026, 19:00 (público ✔) | https://youtube.com/shorts/FsHsdv7J8L8 | ✔ 13 oct 19:15 (pendiente de aprobación) |
 | 03 – Best bet | YouTube | 14 oct 2026, 19:00 (programado) | https://youtube.com/shorts/4LZFwEbzQe0 | ☐ |
 | 04 – Buffett | YouTube | 15 oct 2026, 19:00 (programado) | https://youtube.com/shorts/t8kc3El5M1c | ☐ |
 | 06 – Will Smith | YouTube | 16 oct 2026, 19:00 (programado) | https://youtube.com/shorts/dQDtXnQlmJQ | ☐ |
